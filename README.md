@@ -99,20 +99,6 @@
 
 ---
 
-## 📊 **Performance Comparison**
-
-| **Feature** | **SentilensAI** | **Competitor A** | **Competitor B** | **Advantage** |
-|-------------|-----------------|------------------|------------------|---------------|
-| **Accuracy** | **94%** | 87% | 89% | **+5-7%** |
-| **Languages** | **3** | 1 | 2 | **+1-2** |
-| **Speed** | **<100ms** | 200ms | 150ms | **2x faster** |
-| **Deep Learning** | **✅** | ❌ | ✅ | **Advanced** |
-| **LangChain** | **✅** | ❌ | ❌ | **Unique** |
-| **Real-time** | **✅** | ✅ | ❌ | **Superior** |
-| **Enterprise** | **✅** | ✅ | ✅ | **Complete** |
-
----
-
 ## 🎬 **See SentilensAI in Action**
 
 <div align="center">
